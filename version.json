@@ -1,6 +1,6 @@
 {
-  "min_version": "1.0.0",
-  "latest_version": "1.0.0",
+  "min_version": "2.0.0",
+  "latest_version": "2.0.0",
   "force_update": true,
   "android_url": "https://play.google.com/store/apps/details?id=com.yourapp",
   "ios_url": "https://apps.apple.com/app/idYOUR_ID"
